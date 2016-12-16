@@ -32,6 +32,5 @@ function draw() {
   }
   A = random(255);
   fill(R, G, B, A);
-  stroke(R, G, B, A);
   ellipse(x, y, 50, 50);
 }
