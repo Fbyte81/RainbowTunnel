@@ -8,3 +8,5 @@ Hi, this was a accidentaly code that I've created in P5.js and here it is!
 Use the keybord arrows to move the circle and generate random R G B A values, making a tunnel-like structure that moves arround the screen.
 
 Contributions Wanted!
+ 
+This program is based on P5.js Libraries.
